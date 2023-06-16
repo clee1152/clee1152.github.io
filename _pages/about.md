@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Test 
+Testing
 
 A data-driven personal website
 ======
